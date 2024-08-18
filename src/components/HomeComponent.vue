@@ -75,7 +75,7 @@
         location: {
           name: 'Maples Cafe - Nicholson Street Mall',
           address: 'Shop 4 109-111 Nicholson Street Footscray',
-          image: "https://scontent.fcbr1-1.fna.fbcdn.net/v/t39.30808-6/407257367_277207468664047_3232773539791627740_n.jpg?stp=cp6_dst-jpg&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=FdYi-W0P7dgQ7kNvgFVq_EX&_nc_ht=scontent.fcbr1-1.fna&oh=00_AYCzK2ISDRUOxDCEfc0LtyLG2zkFbmMiLK6NVzV3-xqDEA&oe=66560FDD"
+          image: require('@/img/location.jpeg'),
         },
       };
     },
