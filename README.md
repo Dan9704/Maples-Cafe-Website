@@ -56,4 +56,26 @@ npm install
 npm run serve
 ```
 
+### Lints and fixes files
+```bash
+npm run lint
+```
+
+## Demo
+
+You can explore the Maples Café website by visiting [Maples Café Demo](https://maples-cafe-website.vercel.app/).
+
+## Requirements
+
+- **Node.js**: Ensure you have Node.js installed on your system.
+- **Vue.js**: The project is built using Vue.js, a progressive JavaScript framework.
+- **npm**: Node Package Manager is required for managing project dependencies.
+
+## Acknowledgements
+
+We would like to thank the Vue.js community for their extensive resources and support, which made this project possible. Special thanks to all the contributors who helped in the design and development of the Maples Café website.
+
+## Customize Configuration
+
+See [Configuration Reference](https://cli.vuejs.org/config/) for more details on how to customize your Vue.js project.
 
