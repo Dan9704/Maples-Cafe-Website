@@ -1,4 +1,4 @@
-# hdprojectcos30043
+# Maples Café Website
 
 ## Project setup
 ```
