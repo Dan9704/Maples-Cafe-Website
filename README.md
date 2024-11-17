@@ -2,7 +2,6 @@
 
 ## Introduction
 
-
 This is the Vue.js source code for the Maples Café website, a modern and interactive web application built to showcase the best of what our café has to offer. The site is developed using Vue.js to ensure a smooth and responsive user experience.
 
 <p align="center">
